@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessBoardModel\bin\Debug\ChessBoardModel.dll
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessBoardModel\bin\Debug\ChessBoardModel.pdb
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessBoardModel\obj\Debug\ChessBoardModel.dll
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessBoardModel\obj\Debug\ChessBoardModel.pdb

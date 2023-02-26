@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessConsoleApp\bin\Debug\ChessConsoleApp.exe.config
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessConsoleApp\bin\Debug\ChessConsoleApp.exe
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessConsoleApp\bin\Debug\ChessConsoleApp.pdb
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessConsoleApp\bin\Debug\ChessBoardModel.dll
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessConsoleApp\bin\Debug\ChessBoardModel.pdb
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessConsoleApp\obj\Debug\ChessConsoleApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessConsoleApp\obj\Debug\ChessConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessConsoleApp\obj\Debug\ChessConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessConsoleApp\obj\Debug\ChessConsoleApp.csproj.CopyComplete
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessConsoleApp\obj\Debug\ChessConsoleApp.exe
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessConsoleApp\obj\Debug\ChessConsoleApp.pdb

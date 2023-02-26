@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\bin\Debug\ChessWindowsForm.exe.config
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\bin\Debug\ChessWindowsForm.exe
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\bin\Debug\ChessWindowsForm.pdb
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\bin\Debug\ChessBoardModel.dll
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\bin\Debug\ChessBoardModel.pdb
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\obj\Debug\ChessWindowsForm.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\obj\Debug\ChessWindowsForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\obj\Debug\ChessWindowsForm.Form1.resources
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\obj\Debug\ChessWindowsForm.Properties.Resources.resources
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\obj\Debug\ChessWindowsForm.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\obj\Debug\ChessWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\obj\Debug\ChessWindowsForm.csproj.CopyComplete
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\obj\Debug\ChessWindowsForm.exe
+C:\Users\User\Desktop\CST-250\Week 1\ChessConApp\ChessWindowsForm\obj\Debug\ChessWindowsForm.pdb
